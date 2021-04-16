@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, Rishabh this side! 👋
 
-<!--
-**Rishabhc711/Rishabhc711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github Profile!
 
+I'm a pre-final year undergraduate student at DTU, Delhi.
+
+
+zap Fun fact: Vowpalwabbit makes Reinforcement Learning Real, GenRL makes Reinforcement Learning Easy and QuaRL makes Reinforcement Learning green
+I'm also the maintainer and co-creator of GenRL
+Connect with me:
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m a constant learner 
+- 👯 I’m looking to collaborate with researchers and contributors to extend the boundaries of AI and ML
+- 💬 Ask me about anyhting and I will definitely get back with an answer within a day or two
+- 📫 How to reach me: DM me @ +91-95609-87954 or email me @ chaurasia.rishabh7@gmail.com
+- ⚡ 
+
