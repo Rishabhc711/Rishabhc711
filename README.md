@@ -2,9 +2,9 @@
 
 Welcome to my Github Profile!
 
-I'm a pre-final year undergraduate student at DTU, Delhi.
+I'm a B.Tech Graduate from DTU, Delhi.
 
-- 🔭 2021 Goals: Contribute more to Open Source projects
+- 🔭 2022 Goals: Contribute more to Open Source projects
 - 🌱 I’m a constant learner 
 - 👯 I’m looking to collaborate with researchers and contributors to extend the boundaries of AI and ML
 - 💬 Ask me about anyhting and I will definitely get back with an answer within a day or two
